@@ -25,6 +25,14 @@ export const data = {
       "children": []
     }
   ],
-  "git": {},
+  "git": {
+    "contributors": [
+      {
+        "name": "jackhoo_98",
+        "email": "jackhoo_98@foxmail.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "base/output.md"
 }

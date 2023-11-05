@@ -6,6 +6,14 @@ export const data = {
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "git": {},
+  "git": {
+    "contributors": [
+      {
+        "name": "jackhoo_98",
+        "email": "jackhoo_98@foxmail.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "intro/README.md"
 }
